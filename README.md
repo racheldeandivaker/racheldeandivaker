@@ -20,6 +20,6 @@ Python | Large Language Models (LLMs) | Generative Agent-Based Modeling (GABM) |
 AI strategy in higher edcuation | STEM equity | Student access and success initiatives
 
 ## Fun Fact
-- Before focusing on research, I worked as an academic advisor and saw firsthand how interventions can influence students' academic pathways.
+- Before starting my PhD, I worked as an academic advisor and saw firsthand how interventions can influence students' academic pathways.
 - Outside of research, you can usually find me biking, exploring new coffee spots, or making friends with neighborhood cats. 
 
