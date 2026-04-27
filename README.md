@@ -14,7 +14,7 @@ I build AI agents that simulate how students learn, interact, and make decisions
   
 ## Methods & Tools
 
-Python|Large Language Models (LLMs)|Generative Agent-Based Modeling (GABM)|Natural Language Processing (NLP)
+Python | Large Language Models (LLMs) | Generative Agent-Based Modeling (GABM) | Natural Language Processing (NLP)
 
 ## Interests
 AI strategy in higher edcuation|STEM equity|Student access and success initiatives
