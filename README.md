@@ -17,7 +17,7 @@ Python | Large Language Models (LLMs) | Generative Agent-Based Modeling (GABM) |
 ## Interests
 AI in higher edcuation | STEM equity | Student access and success
 
-## Fun Fact
+## Fun Facts
 - Before starting my PhD, I worked as an academic advisor and saw firsthand how student support interventions can influence academic pathways.
 - Outside of research, you can usually find me biking, trying new coffee spots, or making friends with neighborhood cats. 
 
