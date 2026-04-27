@@ -1,6 +1,6 @@
 ## About Me 
 
-I am a Ph.D. candidate in the Higher Education Administration and Policy program at the University of Florida (Triple Gator 🐊🐊🐊), graduating Spring 2027. My work focuses on how agentic AI systems can be used to better understand and improve student success, particularly for historically underrepresented students in STEM. 
+I am a Ph.D. candidate in the Higher Education Administration and Policy program at the University of Florida (Triple Gator 🐊🐊🐊), graduating Spring 2027. My work focuses on how generative AI can be used to better understand and improve student success, particularly for historically underrepresented students in STEM. 
 
 ## Research Focus
 
