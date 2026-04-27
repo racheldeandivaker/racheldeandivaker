@@ -21,5 +21,5 @@ AI strategy in higher edcuation | STEM equity | Student access and success initi
 
 ## Fun Fact
 - Before focusing on research, I worked as an academic advisor and saw firsthand how interventions can influence students' academic pathways.
-- Outside of research, you can usually find me biking, trying new coffee spots, or hanging with the cats in my neighborhood. 
+- Outside of research, you can usually find me biking, exploring new coffee spots, or making friends with neighborhood cats. 
 
