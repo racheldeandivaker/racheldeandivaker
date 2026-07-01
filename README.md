@@ -4,7 +4,7 @@ I am a Ph.D. candidate in the Higher Education Administration and Policy program
 
 ## Research Focus
 
-I build AI agents that simulate how students learn, interact, and make decisions over time, enabling higher education institutions to test and evaluate what works before implementing real-world interventions.
+I build AI agents, grounded in real national student data, that simulate how students learn and interact in gateway STEM courses, giving higher education institutions a low-cost way to pilot interventions before implementing them with real students. 
 - Agentic AI and simulation of student learning and decision making
 - STEM equity and gateway course success
 - AI-informed intervention design
